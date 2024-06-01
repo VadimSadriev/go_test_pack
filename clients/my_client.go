@@ -1,5 +1,6 @@
 package clients
 
 type MyClient struct {
-	TestField string
+	TestField    string
+	AnotherField int64
 }
